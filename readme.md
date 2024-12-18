@@ -1,4 +1,6 @@
-user@cyberSerpent MINGW64 ~/OneDrive/Dokumente/The Gym/git_exercise (main)
+
+
+```user@cyberSerpent MINGW64 ~/OneDrive/Dokumente/The Gym/git_exercise (main)
 $ git init
 Reinitialized existing Git repository in C:/Users/user/OneDrive/Dokumente/The Gym/git_exercise/.git/
 
@@ -45,7 +47,7 @@ Switched to branch 'dev'
 
 user@cyberSerpent MINGW64 ~/OneDrive/Dokumente/The Gym/git_exercise (dev)
 $ git branch -d test
-Deleted branch test (was 0465a84).
+Deleted branch test (was 0465a84).```
 
 
 
